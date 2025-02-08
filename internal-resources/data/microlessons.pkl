@@ -2,16 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+automatingWithApis = new Template.Microlesson {
+  friendlyName = "Automating with APIs"
+  dirName = "automating-with-apis"
   type = "Content"
   videoUrl = ""
 }
 
-exercise = new Template.Microlesson {
-  friendlyName = "Exercise"
-  dirName = "exercise"
+webScrapingWithSelenium = new Template.Microlesson {
+  friendlyName = "Web Scraping with Selenium"
+  dirName = "web-scraping-with-selenium"
+  type = "Content"
+  videoUrl = ""
+}
+
+dataAnalysisAndVisualization = new Template.Microlesson {
+  friendlyName = "Data Analysis and Visualization"
+  dirName = "data-analysis-and-visualization"
+  type = "Content"
+  videoUrl = ""
+}
+
+exploringAutomationOpportunities = new Template.Microlesson {
+  friendlyName = "Exploring Automation Opportunities"
+  dirName = "exploring-automation-opportunities"
   type = "Content"
   videoUrl = ""
 }
@@ -19,7 +33,6 @@ exercise = new Template.Microlesson {
 levelUp = new Template.Microlesson {
   friendlyName = "Level Up"
   dirName = "level-up"
-  type = "Level Up Content"
+  type = "Content"
   videoUrl = ""
 }
-

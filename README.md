@@ -1,47 +1,41 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Automating Tasks with Python Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, we'll explore advanced techniques and libraries that will take your automation skills to the next level through hands on building.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Automating with APIs](./automating-with-apis/README.md)
+- [Web Scraping with Selenium](./web-scraping-with-selenium/README.md)
+- [Data Analysis and Visualization](./data-analysis-and-visualization/README.md)
+- [Exploring Automation Opportunities](./exploring-automation-opportunities/README.md)
+
+## Level Up
+
+🚀 [Level Up](./level-up/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- [Intro to Python](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python/canvas-landing-pages/itb.html)
+- [Intro to Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/canvas-landing-pages/itb.html)
+- [Intermediate Python](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python/canvas-landing-pages/itb.html)
+- [Intermediate Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python-lab/canvas-landing-pages/itb.html)
+- [Automating Tasks with Python](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/automating-tasks-with-python/canvas-landing-pages/itb.html)
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **60 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/automating-tasks-with-python-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/automating-tasks-with-python-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
