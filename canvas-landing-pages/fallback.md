@@ -1,22 +1,20 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Automating Tasks with Python Lab</span>
 </h1>
-
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, we'll explore advanced techniques and libraries that will take your automation skills to the next level through hands on building.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Automating with APIs](../automating-with-apis/README.md)
+- [Web Scraping with Selenium](../web-scraping-with-selenium/README.md)
+- [Data Analysis and Visualization](../data-analysis-and-visualization/README.md)
+- [Exploring Automation Opportunities](../exploring-automation-opportunities/README.md)
 
 ## Level Up
 
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md)
+🚀 [Level Up](../level-up/README.md)
