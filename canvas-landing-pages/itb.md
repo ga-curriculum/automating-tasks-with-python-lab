@@ -5,7 +5,7 @@
 
 ## About
 
-In this lab, we'll explore advanced techniques and libraries that will take your automation skills to the next level through hands on building.
+In this lab, you'll explore advanced techniques and libraries that will take your automation skills to the next level through hands on building.
 
 ## Content
 
@@ -17,3 +17,7 @@ In this lab, we'll explore advanced techniques and libraries that will take your
 ## Level Up
 
 🚀 [Level Up](../level-up/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](../rubrics/itb.md)

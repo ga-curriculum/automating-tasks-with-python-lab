@@ -7,6 +7,6 @@
 
 Now that you have these powerful tools in your arsenal, let's think about how you can apply them to automate tasks in your own life or work.
 
-# Exercise
+## Exercise
 
-**Personal Automation Project:**  Identify a repetitive task you do regularly (e.g., checking news websites, managing your to-do list) and design a Python script to automate it.
+**Personal automation project:**  Identify a repetitive task you do regularly (for example, checking news websites, managing your to-do list) and design a Python script to automate it.

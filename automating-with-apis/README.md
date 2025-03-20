@@ -7,6 +7,6 @@
 
 APIs (Application Programming Interfaces) are like bridges that allow different software systems to talk to each other.  Automating with APIs opens up a world of possibilities, from retrieving data to controlling remote services.
 
-# Exercise
+## Exercise
 
-**Weather Data Retriever:** Use a weather API (e.g., OpenWeatherMap) to fetch current weather conditions for a given city and print the temperature, humidity, and wind speed.  Experiment with different API parameters (e.g., units, forecast).
+**Weather data retriever**: Use a weather API (for example, OpenWeatherMap) to fetch current weather conditions for a given city and print the temperature, humidity, and wind speed.  Experiment with different API parameters (e.g., units, forecast).

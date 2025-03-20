@@ -5,7 +5,7 @@
 
 ## About
 
-In this lab, we'll explore advanced techniques and libraries that will take your automation skills to the next level through hands on building.
+In this lab, you'll explore advanced techniques and libraries that will take your automation skills to the next level through hands on building.
 
 ## Content
 
@@ -18,15 +18,16 @@ In this lab, we'll explore advanced techniques and libraries that will take your
 
 🚀 [Level Up](./level-up/README.md)
 
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
+
 ## Internal
 
 ### Prerequisites
 
-- [Intro to Python](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python/canvas-landing-pages/itb.html)
-- [Intro to Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/canvas-landing-pages/itb.html)
-- [Intermediate Python](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python/canvas-landing-pages/itb.html)
-- [Intermediate Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python-lab/canvas-landing-pages/itb.html)
-- [Automating Tasks with Python](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/automating-tasks-with-python/canvas-landing-pages/itb.html)
+- Automating Tasks with Python
 
 ### Time to complete
 

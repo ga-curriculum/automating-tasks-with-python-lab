@@ -3,7 +3,7 @@
   <span class="subhead">Level Up</span>
 </h1>
 
-## Level Up Exercises
+## Level Up exercises
 
 1. **Building a Web Application:**  Combine web scraping, data analysis, and a web framework like Flask or Django to create a web application that displays scraped data in an interactive way.
 
