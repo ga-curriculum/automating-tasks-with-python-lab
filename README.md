@@ -33,7 +33,7 @@ Complete ***ANY ONE*** of the following exercises to complete this lab:
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **60 min**
+Estimated time to complete core lab exercise: **90 min**
 
 ### Course landing pages
 
