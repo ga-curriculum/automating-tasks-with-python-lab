@@ -20,10 +20,8 @@ repo {
 
 courses {
   new {
-    // Do not remove this fallback course!
-    name = "fallback"
+    name = "itb"
     microlessons {
-      // Add microlessons here, in the order they should be delivered
       mls.automatingWithApis
       mls.webScrapingWithSelenium
       mls.dataAnalysisAndVisualization
@@ -33,9 +31,9 @@ courses {
       }
     }
   }
-    new {
+  new {
     // Do not remove this fallback course!
-    name = "itb"
+    name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
       mls.automatingWithApis

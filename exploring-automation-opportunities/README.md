@@ -5,8 +5,10 @@
 
 **Learning objective:** By the end of this lesson, students will be able to use Python to automation daily tasks.
 
-Now that you have these powerful tools in your arsenal, let's think about how you can apply them to automate tasks in your own life or work.
-
 ## Exercise
 
-**Personal automation project:**  Identify a repetitive task you do regularly (for example, checking news websites, managing your to-do list) and design a Python script to automate it.
+Automation is all about finding repetitive tasks and making them easier.
+
+Create a file called <code class="filename">automate.py</code> and implement the following exercise:
+
+**Personal automation project:** Identify a repetitive task you do regularly (for example, checking news websites, managing your to-do list) and design a Python script to automate it.

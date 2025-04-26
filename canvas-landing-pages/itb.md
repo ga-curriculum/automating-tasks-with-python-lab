@@ -9,6 +9,8 @@ In this lab, you'll explore advanced techniques and libraries that will take you
 
 ## Content
 
+Complete ***ANY ONE*** of the following exercises to complete this lab:
+
 - [Automating with APIs](../automating-with-apis/README.md)
 - [Web Scraping with Selenium](../web-scraping-with-selenium/README.md)
 - [Data Analysis and Visualization](../data-analysis-and-visualization/README.md)
